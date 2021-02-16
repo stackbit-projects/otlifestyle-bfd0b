@@ -1,5 +1,5 @@
 ---
-title: 'Phone '
+title: Phone Cases
 order: 1
 seo:
   title: Big plants
