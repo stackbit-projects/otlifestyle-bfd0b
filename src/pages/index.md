@@ -17,6 +17,11 @@ sections:
         url: /contact
         arrow: true
         style: primary
+      - title: lorem-ipsum
+        url: lorem-ipsum
+        style: primary
+        arrow: false
+        type: action
   - type: featured_products_section
     section_id: best_sellers_section
     icon: true
