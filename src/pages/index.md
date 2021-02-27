@@ -16,7 +16,7 @@ sections:
       - title: Contact
         url: /store
         arrow: true
-        style: primary
+        style: link
   - type: featured_products_section
     section_id: best_sellers_section
     icon: true
