@@ -23,7 +23,7 @@ sections:
         arrow: false
         type: action
   - type: featured_products_section
-    section_id: best_sellers_section
+    section_id: p_section
     icon: true
     light_title: true
     featured_products:
