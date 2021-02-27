@@ -14,7 +14,7 @@ sections:
 
     actions:
       - title: Contact
-        url: 'mailto://'
+        url: 'mailto://info.otlifestyle@gmail.com'
         arrow: true
         style: primary
       - title: View CV
