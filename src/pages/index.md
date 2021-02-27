@@ -14,7 +14,7 @@ sections:
 
     actions:
       - title: Contact
-        url: /contact
+        url: 'mailto://'
         arrow: true
         style: primary
       - title: View CV
