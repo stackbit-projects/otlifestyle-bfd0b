@@ -18,7 +18,7 @@ sections:
         arrow: true
         style: primary
       - title: View CV
-        url: lorem-ipsum
+        url: 'https://linkedin.com/in/oluwakemi-obadeyi'
         style: primary
         arrow: false
         type: action
