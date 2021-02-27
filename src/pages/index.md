@@ -13,7 +13,7 @@ sections:
       teach others.
 
     actions:
-      - title: See all items
+      - title: Contact
         url: /store
         arrow: true
         style: primary
