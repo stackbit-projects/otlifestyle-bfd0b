@@ -14,7 +14,7 @@ sections:
 
     actions:
       - title: Contact
-        url: /store
+        url: /contact
         arrow: true
         style: link
   - type: featured_products_section
