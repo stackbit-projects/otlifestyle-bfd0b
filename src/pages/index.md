@@ -17,7 +17,7 @@ sections:
         url: /contact
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: View CV
         url: lorem-ipsum
         style: primary
         arrow: false
